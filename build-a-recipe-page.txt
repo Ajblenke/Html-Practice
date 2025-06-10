@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>Korean Beef Bowl</title>
+    <meta charset='utf-8'>
+  </head>
+<body>
+  <h1>Korean Beef Bowl Recipe</h1>
+  <p> A korean beef bowl is a simple dish that can be made in 10-15 and that tastes good. It has been my goto meal for years and whenever I don't know what to make I find it easy to make it with what I can find arond the house.</p>
+  <h2> Ingredients </h2>
+  <ul>
+    <li> 1 lbs of ground beef (80/20)</li>
+    <li> 4 cloves of garlic</li>
+    <li> 1 tbs of ginger </li>
+    <li> 1/2 cup of brown sugar</li>
+    <li> 1/2 cup of soy sauce</li>
+    <li> 1 tsp of sesame oil</li>
+    <li> 1 spoonfull of chili paste</li>
+  </ul>
+  <img src="https://s23209.pcdn.co/wp-content/uploads/2013/07/Korean-Beef-Bowl_111-500x375.jpg" alt="Korean Beef bowl">
+  <h2> Instructions </h2>
+  <ol>
+    <li> heat up canola oil in a wok until smoking</li>
+    <li> add your ground beef and let it cook until brown</li>
+    <li> while it cooks mic and sauce and dice the garlic and ginger</li>
+    <li> Drain the beef from the residual fat and place it in a sperate bowl</li>
+    <li> Cook the garlic and ginger in the wok until they start to brown. Make sure not to burn them!</li>
+    <li>add your beef back in and then add the sauce and cook unit the ramainling liquid has been cooked off</li>
+    <li>turn off the heat and add sesame seeds as garnish then serve with rice</li>
+</body>
+</html>
+
+** end of index.html **
+
